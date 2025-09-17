@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12
+duckduckgo_search>=5.3
+nltk>=3.8
+requests>=2.31
